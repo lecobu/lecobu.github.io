@@ -63,7 +63,7 @@
 --smoky-black: hsl(0, 0%, 7%);
 --white-1: hsl(0, 0%, 100%);
 --white-2: hsl(0, 0%, 98%);
---blue-crayola: hsl(225, 93%, 60%); /* new base blue */
+--blue-crayola: hsl(225, 93%, 60%); 
 --blue-dark: hsl(225, 93%, 55%);
 --light-gray: hsl(0, 0%, 84%);
 --light-gray-70: hsla(0, 0%, 84%, 0.7);
